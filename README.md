@@ -1,1 +1,0 @@
-![demo](./docs/demo.png)
