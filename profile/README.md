@@ -1,4 +1,4 @@
-![demo](https://njxuriszytyyfwsmdbga.supabase.co/storage/v1/object/public/assets/ta-vivo.jpg?t=2022-07-19T02%3A18%3A00.854Z)
+![demo](https://njxuriszytyyfwsmdbga.supabase.co/storage/v1/object/public/assets/ta-vivo.jpg)
 
 ### Ta vivo :heart:
 
