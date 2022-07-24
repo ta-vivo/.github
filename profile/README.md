@@ -1,5 +1,6 @@
 ![demo](https://njxuriszytyyfwsmdbga.supabase.co/storage/v1/object/public/assets/ta-vivo.jpg)
 
+---
 ### Ta vivo :heart:
 
 Check if you API or web is down made easy
@@ -7,6 +8,7 @@ Check if you API or web is down made easy
 - Easy Setup, like magic :crystal_ball:
 - Link multiple notifiactions methods :sound:
 - Insights of your app deployments :rocket:
+- Timezone configuration :earth_americas:
 
 ### Links :paperclip:
 
