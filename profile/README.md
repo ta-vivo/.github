@@ -3,7 +3,7 @@
 ---
 ### Ta vivo - Check if your service is down before your customers
 
-[Ta-vivo](https://landing-tavivo.albert.do/) Is a tool designed to monitor APIs or web services based on a configurable time interval and sent notifications if the service is down or not responding.
+[Ta-vivo](https://landing.tavivo.do/) Is a tool designed to monitor APIs or web services based on a configurable time interval and sent notifications if the service is down or not responding.
 
 ### Features
 
@@ -17,7 +17,7 @@ We have very cool features at this moment;
 
 ### Links :paperclip:
 
-- Landing page: [https://landing-tavivo.albert.do](https://landing-tavivo.albert.do)
+- Landing page: [https://landing.tavivo.do](https://landing.tavivo.do)
 - App: [https://tavivo.do](https://tavivo.do)
 - Documentation: [https://documentation-tavivo.albert.do](https://documentation-tavivo.albert.do)
 
