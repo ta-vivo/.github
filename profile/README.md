@@ -19,22 +19,22 @@ We have very cool features at this moment;
 
 - Landing page: [https://landing.tavivo.do](https://landing.tavivo.do)
 - App: [https://tavivo.do](https://tavivo.do)
-- Documentation: [https://documentation-tavivo.albert.do](https://documentation-tavivo.albert.do)
+- Documentation: [https://documentation.tavivo.do](https://documentation.tavivo.do)
 
 ---
 ## Contributing
 
 You can contribute to the APP. Here is a list of the top projects to contribute to:
 
-- [Frontend](https://documentation-tavivo.albert.do/front-end/)
-- [Backend](https://documentation-tavivo.albert.do/back-end/)
+- [Frontend](https://documentation.tavivo.do/front-end/)
+- [Backend](https://documentation.tavivo.do/back-end/)
 - [WhatsApp service](https://github.com/ta-vivo/ta-vivo-whatsapp-service)
 - [Audit log service](https://github.com/ta-vivo/ta-vivo-audit-log)
 - [Backup service](https://github.com/ta-vivo/ta-vivo-backup-uploader)
 - [The documentation](https://github.com/ta-vivo/ta-vivo-documentation)
 - [The landing page](https://github.com/ta-vivo/ta-vivo-landing)
 
-You can check more on the full [documentation](https://documentation-tavivo.albert.do/)
+You can check more on the full [documentation](https://documentation.tavivo.do)
 
 ---
 
