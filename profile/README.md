@@ -18,7 +18,7 @@ We have very cool features at this moment;
 ### Links :paperclip:
 
 - Landing page: [https://landing-tavivo.albert.do](https://landing-tavivo.albert.do)
-- App: [https://app-tavivo.albert.do](https://app-tavivo.albert.do)
+- App: [https://tavivo.do](https://tavivo.do)
 - Documentation: [https://documentation-tavivo.albert.do](https://documentation-tavivo.albert.do)
 
 ---
