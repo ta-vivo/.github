@@ -4,16 +4,16 @@
   <h1>Ta vivo</h1>
 </div>
 
-[Ta-vivo](https://landing.tavivo.do/) Is a tool designed to monitor APIs or web services based on a configurable time interval and sent notifications if the service is down or not responding.
+[Ta-vivo](https://landing-tavivo.albert.do) Is a tool designed to monitor APIs or web services based on a configurable time interval and sent notifications if the service is down or not responding.
 
 <div align="center">
   <h2>Links</h1>
 </div>
 
 <div align="center">
-  <a href="https://landing.tavivo.do/">🏠 Website</a>
+  <a href="https://landing-tavivo.albert.do">🏠 Website</a>
   <span> | </span>
-  <a href="https://documentation.tavivo.do">📚 Docs</a>
+  <a href="https://documentation-tavivo.albert.do">📚 Docs</a>
   <span> | </span>
   <a href="https://twitter.com/tavivoapp">🐦 Twitter</a>
   </br>
@@ -38,15 +38,15 @@ We have very cool features at this moment;
 
 You can contribute to the APP. Here is a list of the top projects to contribute to:
 
-- [Frontend](https://documentation.tavivo.do/front-end/)
-- [Backend](https://documentation.tavivo.do/back-end/)
+- [Frontend](https://documentation-tavivo.albert.do/front-end/)
+- [Backend](https://documentation-tavivo.albert.do/back-end/)
 - [WhatsApp service](https://github.com/ta-vivo/ta-vivo-whatsapp-service)
 - [Audit log service](https://github.com/ta-vivo/ta-vivo-audit-log)
 - [Backup service](https://github.com/ta-vivo/ta-vivo-backup-uploader)
 - [The documentation](https://github.com/ta-vivo/ta-vivo-documentation)
 - [The landing page](https://github.com/ta-vivo/ta-vivo-landing)
 
-You can check more on the full [documentation](https://documentation.tavivo.do)
+You can check more on the full [documentation](https://documentation-tavivo.albert.do)
 
 ---
 
